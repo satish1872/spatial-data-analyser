@@ -1,0 +1,52 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [100.0, 0.0]
+        },
+        "properties": {
+          "name": "Mock Point 1",
+          "description": "This is a mock point feature."
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [101.0, 0.0],
+            [102.0, 1.0],
+            [103.0, 0.0],
+            [104.0, 1.0]
+          ]
+        },
+        "properties": {
+          "name": "Mock Line",
+          "description": "This is a mock line feature."
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [100.0, 0.0],
+              [101.0, 0.0],
+              [101.0, 1.0],
+              [100.0, 1.0],
+              [100.0, 0.0]
+            ]
+          ]
+        },
+        "properties": {
+          "name": "Mock Polygon",
+          "description": "This is a mock polygon feature."
+        }
+      }
+    ]
+  }
+  
