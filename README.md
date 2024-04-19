@@ -136,8 +136,8 @@ npm run dev
 This command starts the local development server on `http://localhost:3000`. Navigate to this URL in your web browser to view the application.
 
 ## Demo
-
-demo of the application functionalities can be accessed [here](https://drive.google.com/file/d/1y8jNpyMqYNvFcoo-Tnh5-aDB8jGmR4gl/view?usp=sharing).
+live demo: https://spatial-data-analyser-4udj77bf4.vercel.app/
+recorded demo of the application functionalities can be accessed [here](https://www.veed.io/view/25100b7e-5c3d-4ef1-be82-0028fe0e8970?panel=share).
 
 ## Contributions
 
